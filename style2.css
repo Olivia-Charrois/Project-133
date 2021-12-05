@@ -1,0 +1,32 @@
+body
+{
+ background-size: cover;
+ background-position: center;
+}
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+
+canvas
+{
+ box-shadow: 10px 10px 10px grey;
+ border-radius: 10px;
+ margin-top:450px;
+}
+
+#fish, #bird, #dog_cat, #hamster
+{
+ background-color: white;
+ border-radius: 10px;
+ font-size:30px;
+ padding:20px;
+}
